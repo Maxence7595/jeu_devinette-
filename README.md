@@ -11,5 +11,14 @@ Un jeu simple en Python ou le joueur doit deviner un nombre mystere choisi aleat
 - Affichage du score final
 
 ## Comment lancer le jeu
+
+### Prerequis
+- Python 3.x installe sur votre machine
+
+### Execution
+Ouvrez un terminal et tapez:
+
+python main.py
+
 ## Auteur
 Maxence Amirkhanian
