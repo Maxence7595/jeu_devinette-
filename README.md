@@ -12,4 +12,4 @@ Un jeu simple en Python ou le joueur doit deviner un nombre mystere choisi aleat
 
 ## Comment lancer le jeu
 ## Auteur
-Maxence MUSIC
+Maxence Amirkhanian

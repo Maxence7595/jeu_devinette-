@@ -2,7 +2,7 @@
 Jeu de Devinette - Nombre Mystere
 Point d'entree principal du jeu
 
-Auteur: Maxence MUSIC
+Auteur: Maxence Amirkhanian
 """
 
 from menu import afficher_titre, afficher_menu_principal, afficher_regles, choisir_difficulte

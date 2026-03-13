@@ -7,7 +7,7 @@ def afficher_titre():
 print("\n" + "=" * 40)
 print(" JEU DE DEVINETTE")
 print(" Nombre Mystere")
-print(" Par Maxence MUSIC")
+print(" Par Maxence Amirkhanian")
 print("=" * 40)
 
 
